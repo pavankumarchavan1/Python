@@ -1,2 +1,1 @@
-# Python
-Python practice codes
+Python GUI app
